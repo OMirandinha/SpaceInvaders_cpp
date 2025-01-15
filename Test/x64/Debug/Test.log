@@ -1,0 +1,33 @@
+﻿  Test.cpp
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.hpp(38,54): warning C4305: 'inicializando': truncamento de 'double' para 'const float'
+  (compilando o arquivo fonte 'Test.cpp')
+  
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\Test.cpp(7,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  game.cpp
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.hpp(38,54): warning C4305: 'inicializando': truncamento de 'double' para 'const float'
+  (compilando o arquivo fonte 'game.cpp')
+  
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(25,36): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(26,54): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(114,23): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(115,15): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(141,21): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(142,21): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(175,59): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(179,37): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\game.cpp(296,46): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  laser.cpp
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\laser.cpp(13,43): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\laser.cpp(13,31): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  mysteryship.cpp
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\mysteryship.cpp(22,53): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  obstacle.cpp
+  spaceship.cpp
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\spaceship.cpp(6,51): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\spaceship.cpp(7,51): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\spaceship.cpp(31,53): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\viito\OneDrive\Área de Trabalho\test 4\Test\spaceship.cpp(52,51): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Gerando Código...
+  Test.vcxproj -> C:\Users\viito\OneDrive\Área de Trabalho\test 4\x64\Debug\Test.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
